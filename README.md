@@ -8,7 +8,6 @@
 
 #Corrections de bugs
 
-0 Bugs mineurs trouvés;
-
+0 Bugs mineurs trouvés
 0 Bugs majeurs trouvés
 
