@@ -22,8 +22,8 @@
 
 ## Anciennes versions....
 
-# Version dev_0.1
+### Version dev_0.1
 
-# Nouveautés
+### Nouveautés
 - Incrémentation de la connection serveur
 - Jeu jouable sous différentes résolution d'écran
