@@ -1,10 +1,11 @@
 # DAC-Project
-[![Version](https://img.shields.io/badge/version-dev__0.1-brightgreen.svg?style=plastic)]()
-# Version dev_0.1
+[![Version](https://img.shields.io/badge/version-dev__0.3-brightgreen.svg?style=plastic)]()
+# Version dev_0.3
 
 # Nouveautés
-- Incrémentation de la connection serveur
-- Jeu jouable sous différentes résolution d'écran
+- Ajout de Check de version
+- Ajout Mise à Jour semi-auto
+- Création du serveur de Tchat
 
 # Corrections de bugs
 ` 0 Bugs mineurs trouvés`  
@@ -16,3 +17,13 @@
 > Extrayer les fichier dans un dossier de votre ordinateur  
 > Lancer DAC.exe  
 > Amusez-vous  
+
+
+
+## Anciennes versions....
+
+# Version dev_0.1
+
+# Nouveautés
+- Incrémentation de la connection serveur
+- Jeu jouable sous différentes résolution d'écran
